@@ -17,4 +17,5 @@ services:
 
     command:
       start-notebook.sh
+      --ServerApp.token=''
       --NotebookApp.token=''
